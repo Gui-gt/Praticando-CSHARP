@@ -1,0 +1,14 @@
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\bin\Debug\net8.0\C SHARP.exe
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\bin\Debug\net8.0\C SHARP.deps.json
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\bin\Debug\net8.0\C SHARP.runtimeconfig.json
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\bin\Debug\net8.0\C SHARP.dll
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\bin\Debug\net8.0\C SHARP.pdb
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.AssemblyInfoInputs.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.AssemblyInfo.cs
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.csproj.CoreCompileInputs.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.dll
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\refint\C SHARP.dll
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.pdb
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\C SHARP.genruntimeconfig.cache
+C:\Users\30755\OneDrive\Área de Trabalho\estudos\C SHARP\obj\Debug\net8.0\ref\C SHARP.dll
