@@ -1,20 +1,34 @@
 ﻿using System;
 
-namespace Praticando-CSHARP
+namespace Program
 {
     public class Program
     {
-        static void Main ()
-        {
-            int recebe_area = Praça(250,350);
-            Console.WriteLine("o tamanho da praça é: " + recebe_area + " m2");
+        static void Main (){
+
+                string[] alunos  = {"Giovana", "Guilherme", "Daniel", "Luana", "Samuel", "Viviane", "Jenifer", "Ian","Luis", "Diogo"};
+
+                foreach (string aluno in alunos)
+                {
+                    Console.WriteLine("Seja bem vindo(a): " + aluno);
+                }
+
+
+
         }
+    }
+}using System;
 
-        static int Praça(int Base, int Altura)
+namespace Program
+{
+    public class Program
+    {
+        static void Main()
         {
-            int area = (Base * Altura) / 2;
-            return area;
-
+            for(int velocidade = 0;velocidade < 200;velocidade++){
+                Console.WriteLine("A máquina está á "+ velocidade+" por hora");
+            }
+            Console.WriteLine("o carro atingiu o limite máximo de velocidade que é 150 por hora");
         }
     }
 }
