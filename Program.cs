@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Program
+namespace Praticando-CSHARP
 {
     public class Program
     {
