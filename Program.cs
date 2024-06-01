@@ -1,5 +1,6 @@
-﻿
-namespace PRATICANDO_C_
+﻿using System;
+
+namespace Program
 {
     public class Program
     {
@@ -11,7 +12,7 @@ namespace PRATICANDO_C_
 
         static int Praça(int Base, int Altura)
         {
-            int area = (Base * Altura) \2;
+            int area = (Base * Altura) / 2;
             return area;
 
         }
